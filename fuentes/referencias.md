@@ -13,17 +13,7 @@ Las siguientes fuentes fueron consultadas para recopilar información sobre el d
 - Ministerio de Salud del Perú (MINSA). Información y recomendaciones relacionadas con el dengue.
   https://www.gob.pe/minsa
 
-## Fuentes de consulta
 
-Las fuentes utilizadas por cada integrante serán incorporadas progresivamente durante el desarrollo de la investigación, indicando el nombre de la institución o autor, el título de la información consultada y el enlace correspondiente.
-
-## Registro de fuentes por integrante
-
-### Dennys
-- Pendiente de completar con las fuentes utilizadas para la introducción y la definición del dengue.
-
-### Diego
-- Pendiente de completar con las fuentes utilizadas para síntomas, causas y transmisión.
 
 ### Davicho
 - Pendiente de completar con las fuentes utilizadas para prevención, tratamiento y situación del dengue en el Perú.
