@@ -12,8 +12,3 @@ Las siguientes fuentes fueron consultadas para recopilar información sobre el d
 
 - Ministerio de Salud del Perú (MINSA). Información y recomendaciones relacionadas con el dengue.
   https://www.gob.pe/minsa
-
-
-
-### Davicho
-- Pendiente de completar con las fuentes utilizadas para prevención, tratamiento y situación del dengue en el Perú.
